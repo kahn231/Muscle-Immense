@@ -65,6 +65,7 @@ ul {
 list-style-type: none;
 }
 
+
 .headlink {
 display: flex;
 gap: 20px;
@@ -73,14 +74,16 @@ gap: 20px;
 a {
 text-decoration: none;
 color: #e5e7eb;
-
 }
+
+
 
 .info{
 display: flex;
 justify-content: space-evenly;
-flex-wrap: wrap;
 padding: 50px;
+height: fit-content;
+margin-top: 120px;
 }
 
 .prowess {
@@ -89,8 +92,11 @@ font-size: 36px;
 font-weight: bolder;
 color: #1f2937;
 justify-content: center;
-width: 1600px;
-padding-bottom: 30px;
+
+top: 600px;
+position: absolute;
+
+
 }
 
 .immense {
