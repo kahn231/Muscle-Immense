@@ -1,0 +1,186 @@
+.headerer {
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+}
+
+.headerer, .title {
+background-color: #1f2937;
+}
+
+.header {
+font-size: 30px;
+color: #f9faf8;
+font-weight: bold;
+}
+
+.title {
+display:flex;
+flex-direction: row-reverse;
+justify-content: space-evenly;
+padding: 75px;
+}
+
+.stuff {
+ display: flex;
+flex-direction: column;
+}
+
+.hero-text {
+font-size: 48px;
+font-weight: bolder;
+color: #f9faf8;
+}
+
+.hero2, .headlink {
+font-size: 18px;
+color: #e5e7eb;
+}
+
+.hero2 {
+display: flex;
+flex-wrap: wrap;
+max-width: 600px;
+font-size: 30px;
+}
+
+.button { 
+max-width: 75px;
+background-color: #3882f6;
+height: 30px;
+color: #f9faf8;
+font-size: 16px;
+border-radius: 6px;
+border-color: #f9faf8;
+border-width: 2px;
+}
+
+.zangief {
+width: 500pxpx;
+height: 350px;
+margin-left: 30px;
+}
+
+ul {
+list-style-type: none;
+}
+
+.headlink {
+display: flex;
+gap: 20px;
+}
+
+a {
+text-decoration: none;
+color: #e5e7eb;
+
+}
+
+.info{
+display: flex;
+justify-content: space-evenly;
+flex-wrap: wrap;
+padding: 50px;
+}
+
+.prowess {
+    display: flex;
+font-size: 36px;
+font-weight: bolder;
+color: #1f2937;
+justify-content: center;
+width: 1600px;
+padding-bottom: 30px;
+}
+
+.immense {
+font-size: 20px;
+}
+
+
+.quote {
+display: flex;
+background-color: #e5e7eb;
+flex-wrap: wrap;
+padding: 75px;
+}
+
+.quotet {
+font-size: 36px;
+color: #1f2937;
+font-weight: lighter;
+padding-left: 150px;
+padding-right: 150px;
+}
+
+.kahn {
+    font-size: 24px;
+    margin-left: 1400px;
+}
+
+.sign {
+display: flex;
+justify-content: center;
+align-items: center ;
+
+
+}
+
+
+.box {
+display: flex;
+background-color: #3882f6;
+margin: 70px;
+width: 1000px;
+color: #f9faf8;
+justify-content: space-evenly;
+border-radius: 6px;
+}
+
+
+
+
+
+.booton {
+    display: flex;
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-color: #f9faf8;
+    height: 30px;
+  align-self: center;
+  align-items: center;
+  border-radius: 6px;
+}
+
+.footer {
+display: flex;
+background-color: #1f2937;
+color: #f9faf8;
+font-size: 20px;
+height: 100px;
+justify-content: center;
+align-items: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
